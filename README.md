@@ -1,2 +1,3 @@
-#Esse é o meu primeiro arquivo para o GIT.
-# shellscripts
+#Reposítório de estudos e scripts na linguagem Perl.
+#
+#Perl_Scrits
